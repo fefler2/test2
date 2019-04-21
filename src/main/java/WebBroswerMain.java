@@ -12,6 +12,7 @@ public class WebBroswerMain extends JPanel{
 
     }
 
+
     public WebBroswerMain(){
         setBackground(Color.LIGHT_GRAY);
     }
